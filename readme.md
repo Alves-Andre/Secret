@@ -61,6 +61,19 @@ Moedas
 - **Entrada:** `[7.5, 5.2, 3.8]`
 - **Saída:** TRIÂNGULO ESCALENO e OBTUSÂNGULO
 
+
+## Questão 4: Tempo de Jogo com Minutos
+
+### Teste 1:
+- **Entrada:** `1 30 2 45`
+- **Saída:** O JOGO DUROU 1 HORA(S) E 15 MINUTO(S)
+
+### Teste 2: 
+- **Entrada:** `23 50 0 10`
+- **Saída:** O JOGO DUROU 0 HORA(S) E 20 MINUTO(S)
+
+
+
 ## Questão 5: Cifra de César
 
 ### Teste 1:
